@@ -1,0 +1,24 @@
+{
+  "name": "body-temp-calculator",
+  "version": "1.0.0",
+  "description": "Celisius to Fahrenhiet calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankamsarav/first-npm-package.git"
+  },
+  "keywords": [
+    "\"Body",
+    "Temp",
+    "Calculator\""
+  ],
+  "author": "Ankam Sarav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankamsarav/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/ankamsarav/first-npm-package#readme"  
+}
